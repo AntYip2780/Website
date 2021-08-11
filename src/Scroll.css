@@ -1,0 +1,6 @@
+.Rig {
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    overflow-y: auto;
+}
